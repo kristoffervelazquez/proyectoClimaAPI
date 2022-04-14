@@ -95,9 +95,7 @@ function mostrarClima(datos) {
     resultadoDiv.appendChild(actual);
     resultadoDiv.appendChild(tempMaxima);
     resultadoDiv.appendChild(tempMinima);
-
-
-
+    // Se agrega el resultado de la consulta 
     resultado.appendChild(resultadoDiv);
 }
 
